@@ -18,3 +18,10 @@ And I will be saving things here as I am satsified with them.
 So far I am only satified with my zsh configuration.
 
 
+---
+
+
+## DOCS
+
+
+**ZSH**

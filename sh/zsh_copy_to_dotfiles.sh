@@ -8,7 +8,7 @@ DEST_DIR="$(dirname "$0")/../rootDOTS"
 mkdir -p "$DEST_DIR"
 
 # Copy the .oh-my-zsh directory
-cp -r "$SOURCE_DIR/.oh-my-zsh" "$DEST_DIR"
+#cp -r "$SOURCE_DIR/.oh-my-zsh" "$DEST_DIR"
 
 # Copy the .zshrc file
 cp "$SOURCE_DIR/.zshrc" "$DEST_DIR"
