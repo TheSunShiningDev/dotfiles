@@ -13,7 +13,7 @@ I am going to do it my way.
 
 So what am I doing and how am I doing it?
 
-I am documenting my dotfiles/configuration files. And I am syncing them to this repo via terminal commands, see my sh folder.
+I am documenting my dotfiles/configuration files. And I am syncing them to this repo via terminal commands, see my sh folder. (I am laughing at the fact that I create .sh bash files and use zsh to run them!)
 
 This is a learning journey for me.
 And I will be saving things here as I am satsified with them.
