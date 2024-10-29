@@ -73,6 +73,7 @@ ZSH_THEME="apple"
 plugins=(
 z
 git
+kitty
 zsh-autosuggestions
 zsh-syntax-highlighting
 fast-syntax-highlighting
