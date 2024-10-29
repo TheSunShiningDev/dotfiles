@@ -25,3 +25,5 @@ So far I am only satified with my zsh configuration.
 
 
 **ZSH**
+- [.zshrc](rootDOCS/zshrc.md)
+- [.oh-my-zsh](rootDOCS/oh-my-zsh.md)
