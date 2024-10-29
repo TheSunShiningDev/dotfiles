@@ -19,6 +19,8 @@ This is a learning journey for me.
 And I will be saving things here as I am satsified with them.
 So far I am only satified with my zsh configuration.
 
+Read more in journal...
+[JOURNAL.md](JOURNAL.md)
 
 ---
 
@@ -35,4 +37,5 @@ So far I am only satified with my zsh configuration.
 **HOW TO USE**
 - You can read my docs for installing some of the same plugins I use.
 
-The .dotfiles are just a sample of what mine look like. Currenly in my journey I do not feel comfortable or the need to change them drasticly.
+The .dotfiles are just a sample of what my current configurations are.
+Currenly in my journey I do not feel comfortable editing them directly or the need to change them drasticly.
