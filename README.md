@@ -1,6 +1,7 @@
 # dotfiles
 My personal dotfiles
 
+---
 
 **Oct 29, 2024**
 
@@ -22,9 +23,16 @@ So far I am only satified with my zsh configuration.
 ---
 
 
-## DOCS
+## DOCS & INFO
 
 
 **ZSH**
 - [.zshrc](rootDOCS/zshrc.md)
 - [.oh-my-zsh](rootDOCS/oh-my-zsh.md)
+
+
+
+**HOW TO USE**
+- You can read my docs for installing some of the same plugins I use.
+
+The .dotfiles are just a sample of what mine look like. Currenly in my journey I do not feel comfortable or the need to change them drasticly.
