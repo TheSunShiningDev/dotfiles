@@ -30,7 +30,7 @@ Read more in journal...
 
 
 ## DOCS & INFO
-
+more notes on these files in the [rootDOCS/README.md](rootDOCS/README.md)
 
 **ZSH**
 - [.zshrc](rootDOCS/zshrc.md)

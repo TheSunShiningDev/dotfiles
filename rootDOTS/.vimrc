@@ -1,5 +1,5 @@
-# .vimrc
-# keeping it simple
-# also keeping it documented!
+" .vimrc
+" keeping it simple
+" also keeping it documented!
 
-:set number # line numbers. yes, please!
+:set number " line numbers. yes, please!
