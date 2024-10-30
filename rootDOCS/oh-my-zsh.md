@@ -18,7 +18,7 @@ Installing zsh on linux
 
 
 
-**PLUGINS START/SAMPLE**
+**PLUGINS**
 - (This needs to be added/changed in the .zshrc depending on what plugins you install.)
 - (ohmyz, comes with many plugins prepackaged.)
 - https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins
@@ -30,16 +30,17 @@ Installing zsh on linux
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-z
-git
-zsh-autosuggestions
-zsh-syntax-highlighting
-zsh-autocomplete
-fast-syntax-highlighting
+z # STANDARD
+git # STANDARD
+kitty # STANDARD
+zsh-autosuggestions # CUSTOM
+zsh-syntax-highlighting # CUSTOM
+zsh-autocomplete # CUSTOM
+fast-syntax-highlighting # CUSTOM
 )
 ```
 
-**INSTALLING OTHER PLUGINS**
+**INSTALLING CUSTOM PLUGINS**
 
 
 zsh-autosuggestions
@@ -64,8 +65,6 @@ git clone --depth 1 https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_C
 
 
 > The --depth 1 flag in the git clone command is used to create a shallow clone, meaning it only downloads the latest commit. This is useful for saving bandwidth and time, especially if you don't need the full commit history of the repository.
->
-> These PLUGINS can be cloned into the "custom/plugins/" folder.
 
 ---
 
