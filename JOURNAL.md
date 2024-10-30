@@ -14,5 +14,7 @@ Will update later when I customize more!
 
 - Added my kitty config!
 - added more notes to some things.
-- 
+- added my vim configuartion notes.
+
+As a user getting started with vim, their is the desire to have it work for everything. I love the fact that I have a few options. And one of those options is to customize and use vim differently from neovim.
 

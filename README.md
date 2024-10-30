@@ -39,3 +39,7 @@ Read more in journal...
 **KITTY**
 - [.config/kitty](rootDOCS/config_kitty.md)
 
+**VIM & NEOVIM**
+- [.vimrc](rootDOCS/vimrc.md) - vim
+- [.vim](rootDOCS/vim.md) - vim
+- [.config/nvim](rootDOCS/config_nvim.md) - neovim
