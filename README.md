@@ -32,6 +32,9 @@ Read more in journal...
 - [.zshrc](rootDOCS/zshrc.md)
 - [.oh-my-zsh](rootDOCS/oh-my-zsh.md)
 
+**KITTY**
+- [.config/kitty](rootDOCS/config_kitty.md)
+
 
 
 **HOW TO USE**

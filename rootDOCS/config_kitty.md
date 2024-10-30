@@ -26,6 +26,10 @@ On start, kitty.conf has a lot of commented lines.
 **Things I changed**
 - Font size
 - Theme
+- Font
+
+
+See latest version of this file in "rootDOTS" folder!
 
 ```sh
 # vim:fileencoding=utf-8:foldmethod=marker
