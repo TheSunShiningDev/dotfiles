@@ -12,4 +12,7 @@ Will update later when I customize more!
 
 **Oct 30, 2024**
 
-Added my kitty config!
+- Added my kitty config!
+- added more notes to some things.
+- 
+
