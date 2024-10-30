@@ -2,7 +2,7 @@
 
 # Define source and destination directories
 SOURCE_DIR="$HOME"
-DEST_DIR="$(dirname "$0")/../rootDOTS"
+DEST_DIR="$(dirname "$0")/../rootDOTS/.config"
 
 # Create the destination directory if it doesn't exist
 mkdir -p "$DEST_DIR"
