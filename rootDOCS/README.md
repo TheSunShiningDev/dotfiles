@@ -4,8 +4,9 @@ some documentation on some of my dotfiles!
 
 
 **GENERAL**
-- [.gitconfig](gitconfig.md) - git
+- [.gitconfig](gitconfig.md) - git configuration
 - .ipfs/ - ipfs stuff
+- .vscode - stuff for vs code
 
 **ZSH**
 - [.zshrc](zshrc.md) - configuration for zsh
