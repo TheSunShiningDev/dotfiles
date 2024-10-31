@@ -30,13 +30,15 @@ Installing zsh on linux
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-z # STANDARD
-git # STANDARD
-kitty # STANDARD
-zsh-autosuggestions # CUSTOM
-zsh-syntax-highlighting # CUSTOM
-zsh-autocomplete # CUSTOM
-fast-syntax-highlighting # CUSTOM
+# STANDARD
+z
+git
+kitty
+# CUSTOM
+zsh-autosuggestions
+zsh-syntax-highlighting
+zsh-autocomplete
+fast-syntax-highlighting
 )
 ```
 
