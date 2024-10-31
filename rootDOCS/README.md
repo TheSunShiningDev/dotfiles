@@ -24,3 +24,6 @@ some documentation on some of my dotfiles!
 
 NEOVIM
 - [.config/nvim/](config_nvim.md) - neovim config folder
+
+See the latest version of some of these in the [../rootDOTS/ FOLDER](../rootDOTS/)
+
