@@ -1,4 +1,6 @@
 # MAC OS
 # THESE . FILES NEED TO BE IGNORED
 .DS_Store
-.
+
+# Kitty Backup, I don't need that!
+rootDOTS/.config/kitty/kitty.conf.bak
