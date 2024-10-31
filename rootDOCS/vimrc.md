@@ -26,3 +26,5 @@ locations
 I hope to keep this file simple.
 And full of comments.
 >ℹ️ Comments need to be after "
+
+See latest version of this file in the "rootDOTS" folder!

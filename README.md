@@ -23,8 +23,9 @@ Read more in journal...
 [JOURNAL.md](JOURNAL.md)
 
 > I am heavily documenting everything so that I can easily set it up again myself on a new device if I need to.
-> Insall instructions, and fully documented datails about all my configurations can be found in the "rootDOCS/" folder.
+> Install instructions for plugins, and fully documented datails about all my configurations can be found in the "rootDOCS/" folder.
 > The "rootDOTS/" folder is kind of bland with just a sample of some of my dotfiles.
+
 
 ---
 

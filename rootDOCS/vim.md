@@ -10,7 +10,7 @@ locations
 - ~/.vim/pack/plugins/start/
 
 
-
+> Oct 31, 2024 - Decided not to use vim plugins.
 
 ---
 
