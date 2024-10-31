@@ -14,10 +14,12 @@ Will update later when I customize more!
 
 - Added my kitty config!
 - added more notes to some things.
-- added my vim configuartion notes.
+- added my vim configuration notes.
 
 As a user getting started with vim, their is the desire to have it work for everything. I love the fact that I have a few options. And one of those options is to customize and use vim differently from neovim.
 
 
-The last few days it has been fun to learn and configure, and watch how my configuations evolve.
+The last few days it has been fun to learn and configure, and watch how my configurations evolve.
 But other than that, I haven't really been doing anything the last few days.
+
+My learning has made me more comfortable in the terminal and with dotfiles. Now I feel like I am documenting too much. Because I can have comments and notes in the actual files!
