@@ -34,12 +34,12 @@ more notes on these files in the [rootDOCS/README.md](rootDOCS/README.md)
 
 **ZSH**
 - [.zshrc](rootDOCS/zshrc.md)
-- [.oh-my-zsh](rootDOCS/oh-my-zsh.md)
+- [.oh-my-zsh/](rootDOCS/oh-my-zsh.md)
 
 **KITTY**
-- [.config/kitty](rootDOCS/config_kitty.md)
+- [.config/kitty/](rootDOCS/config_kitty.md)
 
 **VIM & NEOVIM**
 - [.vimrc](rootDOCS/vimrc.md) - vim
 - [.vim](rootDOCS/vim.md) - vim
-- [.config/nvim](rootDOCS/config_nvim.md) - neovim
+- [.config/nvim/](rootDOCS/config_nvim.md) - neovim
