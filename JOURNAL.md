@@ -18,3 +18,6 @@ Will update later when I customize more!
 
 As a user getting started with vim, their is the desire to have it work for everything. I love the fact that I have a few options. And one of those options is to customize and use vim differently from neovim.
 
+
+The last few days it has been fun to learn and configure, and watch how my configuations evolve.
+But other than that, I haven't really been doing anything the last few days.
