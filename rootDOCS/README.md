@@ -7,6 +7,7 @@ some documentation on some of my dotfiles!
 - [.gitconfig](gitconfig.md) - git configuration
 - .ipfs/ - ipfs stuff
 - .vscode - stuff for vs code
+- .config/lazygit/config.yml - where the file lives on linux, I don't need to configure anything for lazygit
 
 **ZSH**
 - [.zshrc](zshrc.md) - configuration for zsh
