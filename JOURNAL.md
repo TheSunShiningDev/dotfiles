@@ -43,11 +43,11 @@ Morning - 6:49 AM
 
 not sure what I will get to today, but here are some bullet points of some things i want to look at. will come back and cross them off when I get to them
 - ~~lazygit?~~
-- more documentation
+- ~~more documentation~~ crossing this off, because!
 - Add tmux, learn this
 - Create an install .sh file for installing certain things. (probably a future project)
 - ~~Nano?~~
-- maybe find a file browser for the terminal
+- ~~maybe find a file browser for the terminal~~ - already had broot installed.
 - ~~charm & glow!!~~ - some cool tools, but don't think I need them.
 
 one of the fun thing about any project is that it is never really will be complete, and this project is a fun one, because it is my learning journey with some of these tools.

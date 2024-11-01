@@ -9,7 +9,7 @@ some documentation on some of my dotfiles!
 - .vscode - stuff for vs code
 - .config/lazygit/config.yml - where the file lives on linux, I don't need to configure anything for lazygit
 - .config/broot - A new way to see and navigate directory trees
-
+- .tmux.conf - terminal multiplexer
 
 **ZSH**
 - [.zshrc](zshrc.md) - configuration for zsh
