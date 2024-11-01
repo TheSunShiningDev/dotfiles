@@ -46,7 +46,7 @@ not sure what I will get to today, but here are some bullet points of some thing
 - more documentation
 - Add tmux, learn this
 - Create an install .sh file for installing certain things. (probably a future project)
-- Nano?
+- ~~Nano?~~
 - maybe find a file browser for the terminal
 - ~~charm & glow!!~~ - some cool tools, but don't think I need them.
 
