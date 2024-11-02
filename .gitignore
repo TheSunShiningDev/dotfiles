@@ -4,3 +4,6 @@
 
 # Kitty Backup, I don't need that!
 rootDOTS/.config/kitty/kitty.conf.bak
+
+# Obsidian
+.obsidian/workspace.json
