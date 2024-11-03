@@ -15,19 +15,22 @@ It contains the install instructions for some of my favorite tools!
 
 ---
 
+> Remember some of these tools, may be tools that I thought where cool, but maybe I don't really need them.
 
-tmux
+**tmux**
 terminal multiplexer
 https://github.com/tmux/tmux
 ```brew install tmux```
 
 
-lazygit
+**lazygit**
 simple terminal UI for git commands
 https://github.com/jesseduffield/lazygit
 ```brew install lazygit``` - core
 
-
-
+**eza**
+A modern alternative to ls
+https://eza.rocks/ - https://github.com/eza-community/eza/tree/main
+```brew install eza```
 
 
