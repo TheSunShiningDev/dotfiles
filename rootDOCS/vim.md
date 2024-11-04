@@ -27,7 +27,7 @@ set background=dark
 " installed to .vim/colors
 colorscheme solarized
 "colorscheme gruvbox
-"colorscheme gruvbox-material
+
 
 " END THEME
 ```
@@ -40,9 +40,6 @@ https://github.com/altercation/vim-colors-solarized
 - **gruvbox**
 retro groove color scheme for vim
 https://github.com/morhetz/gruvbox
-- **gruvbox-material**
-gruvbox with material palette 
-https://github.com/sainnhe/gruvbox-material
 
 
 

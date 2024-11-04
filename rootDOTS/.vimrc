@@ -26,13 +26,12 @@ set background=dark
 " installed to .vim/colors
 "colorscheme solarized
 colorscheme gruvbox
-"colorscheme gruvbox-material
-
 " END THEME
 
 
 
 "START CUSTOM KEYSTOKES - KEY REMAPS
+" I find myself just using regular vim commands, and forgetting that I set this up!
 let mapleader = " " " SPACE
 " SAVE - WRITE
 nnoremap <leader>s :w<CR>
