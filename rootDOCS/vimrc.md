@@ -3,12 +3,25 @@ the ubiquitous text editor
 
 vim links
 - https://www.vim.org/
-- https://github.com/vim/vim?tab=readme-ov-file
+- https://github.com/vim/vim
+- https://www.vim.org/download.php
 
 
 locations
 - .vimrc - configurations for vim
 - [.vim](vim.md) - folder for vim plugins & themes
+
+
+install?
+- should come preinstalled?
+- ```vim --version```
+```sh
+git clone https://github.com/vim/vim.git
+cd vim/src
+make
+# Then install
+sudo make install
+```
 
 
 ---

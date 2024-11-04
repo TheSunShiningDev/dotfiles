@@ -36,7 +36,7 @@ The only thing I changed about by lazyvim setup is hidden files
 ~/.config/nvim/init.lua
 
 Just added this, since lazyvim uses neotree
-```sh
+```json
 -- HIDDEN FILES
 require("neo-tree").setup({
   filesystem = {

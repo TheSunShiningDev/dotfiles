@@ -54,3 +54,10 @@ one of the fun thing about any project is that it is never really will be comple
 and one can never stop learning.
 
 
+**Nov 4, 2024**
+
+I was having issues with my brew pyton intallation.
+So I decide to install it directly from python.
+Learning to use python and devlop my own python app, but that is not a part of this journal!
+
+Also this moring I had fun customizing my vim setup a little more, but still not using it as my main editor.
