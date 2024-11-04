@@ -15,13 +15,7 @@ locations
 install?
 - should come preinstalled?
 - ```vim --version```
-```sh
-git clone https://github.com/vim/vim.git
-cd vim/src
-make
-# Then install
-sudo make install
-```
+- ```brew install vim```
 
 
 ---
