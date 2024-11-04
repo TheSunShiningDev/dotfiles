@@ -4,6 +4,8 @@
 
 ./zsh_copy_to_dotfiles.sh
 ./kitty_copy_to_dotfiles.sh
+# Vim
 ./vimrc_copy_to_dotfiles.sh
+./vim_theme_copy_to_dotfiles.sh
 
 echo "SYNC successful!"

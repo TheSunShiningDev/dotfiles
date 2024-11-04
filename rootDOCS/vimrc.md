@@ -8,7 +8,7 @@ vim links
 
 locations
 - .vimrc - configurations for vim
-- [.vim](vim.md) - folder for vim stuff and plugins
+- [.vim](vim.md) - folder for vim plugins & themes
 
 
 ---

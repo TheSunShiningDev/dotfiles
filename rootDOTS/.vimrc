@@ -4,8 +4,9 @@
 
 
 " BASICS
-syntax on
-set mouse=a
+set mouse=a " so beginners like me can user mouse
+set clipboard+=unnamedplus " so yank works to system clipboard, still not working for me.
+
 
 " Dynamic Line Number
 " https://jeffkreeftmeijer.com/vim-number/
@@ -17,8 +18,21 @@ set mouse=a
 :  autocmd BufLeave,FocusLost,InsertEnter,WinLeave   * if &nu                  | set nornu | endif
 :augroup END
 
+" START  THEME
+syntax enable
+" choose light or dark
+set background=dark
+"set background=light
+" installed to .vim/colors
+"colorscheme solarized
+colorscheme gruvbox
+"colorscheme gruvbox-material
 
-"CUSTOM KEYSTOKES START - KEY REMAPS
+" END THEME
+
+
+
+"START CUSTOM KEYSTOKES - KEY REMAPS
 let mapleader = " " " SPACE
 " SAVE - WRITE
 nnoremap <leader>s :w<CR>
