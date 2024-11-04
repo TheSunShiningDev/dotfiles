@@ -34,5 +34,5 @@ source $ZSH/oh-my-zsh.sh
 # broot - I don't remember installing
 source /Users/nathanrenfroe/.config/broot/launcher/bash/br
 
-# TMUX
-ZSH_TMUX_AUTOSTART="true"
+
+

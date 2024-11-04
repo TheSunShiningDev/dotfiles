@@ -30,4 +30,19 @@ Default logation for neovim config files
 I decided to be lazy.
 https://www.lazyvim.org/
 
-Will update later when I customize more!
+
+The only thing I changed about by lazyvim setup is hidden files
+
+~/.config/nvim/init.lua
+
+Just added this, since lazyvim uses neotree
+```sh
+-- HIDDEN FILES
+require("neo-tree").setup({
+  filesystem = {
+    filtered_items = {
+      hide_dotfiles = false, -- Set this to false to show hidden files
+    },
+  },
+})
+```
