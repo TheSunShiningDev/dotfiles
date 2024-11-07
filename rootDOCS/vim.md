@@ -32,7 +32,9 @@ colorscheme solarized
 " END THEME
 ```
 
-**THEME OPTIONS** are .vim files downloaded to .vim/colors/, I have downloaded these and am syncing them.
+### THEME OPTIONS
+are .vim files downloaded to .vim/colors/, I have downloaded these and am syncing them.
+
 
 - **solarized**
 precision colorscheme for the vim text editor
@@ -40,6 +42,14 @@ https://github.com/altercation/vim-colors-solarized
 - **gruvbox**
 retro groove color scheme for vim
 https://github.com/morhetz/gruvbox
+
+**install yourself**
+```sh
+cd .vim/colors
+git clone [theme repo]
+cd [theme repo]
+cp colors/*.vim ../
+```
 
 
 

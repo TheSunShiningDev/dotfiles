@@ -30,18 +30,22 @@ https://github.com/tmux/tmux
 
 
 **lazygit**
-simple terminal UI for git commands
+simple terminal ui for git commands
 https://github.com/jesseduffield/lazygit
 ```brew install lazygit``` - core
 
 **eza**
-A modern alternative to ls
+a modern alternative to ls
 https://eza.rocks/ - https://github.com/eza-community/eza/tree/main
 ```brew install eza```
 
 **ffmpeg**
-A complete, cross-platform solution to record, convert and stream audio and video.
+a complete, cross-platform solution to record, convert and stream audio and video.
 https://ffmpeg.org/
 ```brew install ffmpeg```
 
+**tree**
+display directories as trees (with optional color/html output)
+https://oldmanprogrammer.net/source.php?dir=projects/tree - https://github.com/Old-Man-Programmer/tree
+```brew install tree```
 
