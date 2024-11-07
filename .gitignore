@@ -7,3 +7,4 @@ rootDOTS/.config/kitty/kitty.conf.bak
 
 # Obsidian
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
