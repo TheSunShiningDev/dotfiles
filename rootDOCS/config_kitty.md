@@ -50,3 +50,14 @@ italic_font      auto
 bold_italic_font auto
 # END_KITTY_FONTS
 ```
+
+
+
+## Themes
+some I like or have tried
+
+```kitten themes```
+- Fish Tank
+- Ubuntu
+
+fonts can be set with ```kitten choose-fonts```.
