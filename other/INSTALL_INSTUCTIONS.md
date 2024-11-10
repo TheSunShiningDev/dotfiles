@@ -49,3 +49,8 @@ display directories as trees (with optional color/html output)
 https://oldmanprogrammer.net/source.php?dir=projects/tree - https://github.com/Old-Man-Programmer/tree
 ```brew install tree```
 
+
+
+```sh
+brew install ruby # Should already be installed, but if not
+```
