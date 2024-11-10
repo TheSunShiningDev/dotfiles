@@ -5,8 +5,7 @@
 
 " BASICS
 set mouse=a " so beginners like me can user mouse
-set clipboard+=unnamedplus " so yank works to system clipboard, still not working for me.
-
+set clipboard=unnamed " so yank works to system clipboard 
 
 " Dynamic Line Number
 " https://jeffkreeftmeijer.com/vim-number/
