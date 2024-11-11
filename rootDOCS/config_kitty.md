@@ -28,29 +28,6 @@ I am going to clear all the commented lines since I have them saved here in the 
 See latest version of "kitty.conf" in "rootDOTS" folder. I will probably not configure kitty much, becuase it doesn't need to be configured much and use the terminal to change font or theme whenever I feel like it.
 
 
-```sh
-# kitty.conf
-# really simple!!!
-
-
-# Font Size
-font_size 15.0
-# It's important that text is big enough to see!
-
-# BEGIN_KITTY_THEME
-# Fish Tank
-include current-theme.conf
-# END_KITTY_THEME
-
-
-# BEGIN_KITTY_FONTS
-font_family      family="Space Mono for Powerline"
-bold_font        auto
-italic_font      auto
-bold_italic_font auto
-# END_KITTY_FONTS
-```
-
 
 
 ## Themes
@@ -61,3 +38,11 @@ some I like or have tried
 - Ubuntu
 
 fonts can be set with ```kitten choose-fonts```.
+
+
+
+## Some kestrokes
+- CMD + RETURN (for new window)
+- CMD + SHIFT + D (to close window)
+- CMD + T (for tab)
+- CMD + W (to close tab)

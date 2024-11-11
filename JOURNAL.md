@@ -44,7 +44,7 @@ Morning - 6:49 AM
 not sure what I will get to today, but here are some bullet points of some things i want to look at. will come back and cross them off when I get to them
 - ~~lazygit?~~
 - ~~more documentation~~ crossing this off, because!
-- Add tmux, learn this
+- Add tmux, learn this (don't really need it when using kitty termnal)
 - Create an install .sh file for installing certain things. (probably a future project)
 - ~~Nano?~~
 - ~~maybe find a file browser for the terminal~~ - already had broot installed.
@@ -61,3 +61,8 @@ So I decide to install it directly from python.
 Learning to use python and devlop my own python app, but that is not a part of this journal!
 
 Also this moring I had fun customizing my vim setup a little more, but still not using it as my main editor.
+
+
+**Nov 11, 2024**
+
+Just having fun customizing. I currenly have a macbook, so wondering what I will do with this project if I switch devices.
