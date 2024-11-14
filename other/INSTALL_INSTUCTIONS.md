@@ -10,6 +10,7 @@ It contains the install instructions for some of my favorite tools!
 **Docs that contain install instructions:**
 - [brew.md](brew.md)
 - [python](python.md) - install from download, and not with brew
+- [node.j][Node.md]
 - [rootDOCS/config_kitty.md](../rootDOCS/config_kitty.md)
 - [rootDOCS/config_nvim.md](../rootDOCS/config_nvim.md)
 - [rootDOCS/gitconfig.md](../rootDOCS/gitconfig.md)
