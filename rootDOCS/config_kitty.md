@@ -17,6 +17,11 @@ curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
 Default logation for kitty config files
 "~/.config/kitty/"
 
+
+config inpiration
+- https://blog.adamchalmers.com/kitty-terminal-config/
+
+
 ---
 
 # kitty.conf

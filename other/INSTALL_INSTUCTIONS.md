@@ -1,5 +1,6 @@
 # INSTALL INSTRUCTIONS
 
+
 I know some of my doc files have install instructions, but I didn't want to create a file for every tool.
 
 So that is what this file is for!
@@ -54,4 +55,6 @@ https://oldmanprogrammer.net/source.php?dir=projects/tree - https://github.com/O
 
 ```sh
 brew install ruby # Should already be installed, but if not
+brew install ipfs # for the few times I use ipfs
+brew install neofetch # 🖼️ A command-line system information tool written in bash 3.2+
 ```
