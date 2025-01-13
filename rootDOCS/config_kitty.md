@@ -1,4 +1,4 @@
-# .config/kitty
+# kitty
 The fast, feature-rich, GPU based terminal emulator
 
 
@@ -15,7 +15,8 @@ curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
 ```
 
 Default logation for kitty config files
-"~/.config/kitty/"
+- ~/.config/kitty/
+- kitty.conf
 
 
 config inpiration

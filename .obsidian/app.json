@@ -1,4 +1,6 @@
 {
   "showInlineTitle": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

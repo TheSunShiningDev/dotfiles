@@ -21,7 +21,8 @@ tar xzf nvim-macos-arm64.tar.gz
 
 
 Default logation for neovim config files
-"~/.config/nvim/"
+- ~/.config/nvim/
+- ~/.config/nvim/init.lua
 
 
 ---

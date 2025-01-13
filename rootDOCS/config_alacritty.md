@@ -7,7 +7,7 @@ I discovered this after kitty, and decided it was worth setting up too!!!
 links
 - https://github.com/alacritty/alacritty
 - https://alacritty.org/
-- https://alacritty.org/config-alacritty.html
+- https://alacritty.org/config-alacritty.html - config
 
 folder and file
 - ~/.config/alacritty
