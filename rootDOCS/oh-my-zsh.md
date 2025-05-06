@@ -36,10 +36,15 @@ git
 kitty
 # CUSTOM
 zsh-autosuggestions
-zsh-syntax-highlighting
+#zsh-syntax-highlighting
 zsh-autocomplete
 fast-syntax-highlighting
 )
+```
+
+```bash
+# auto style
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#8a8a8a" 
 ```
 
 **INSTALLING CUSTOM PLUGINS**
