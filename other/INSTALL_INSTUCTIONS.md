@@ -54,7 +54,16 @@ https://oldmanprogrammer.net/source.php?dir=projects/tree - https://github.com/O
 **pearcleaner**
 a tool to clean up your  apps
 https://github.com/alienator88/Pearcleaner
-```brew install pearcleaner```
+```
+brew install pearcleaner
+```
+
+**markedit**
+a tool to edit markdown files
+https://github.com/MarkEdit-app/MarkEdit
+```
+brew install markedit
+```
 
 ```sh
 brew install ruby # Should already be installed, but if not
