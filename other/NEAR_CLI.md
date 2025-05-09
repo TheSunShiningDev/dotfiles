@@ -7,7 +7,45 @@ https://docs.near.org/tools/near-cli
 cargo install near-cli-rs
 cargo install --git https://github.com/near/near-cli-rs
 
+# to update if installed from git
+cargo install --git https://github.com/near/near-cli-rs --force
+
 # uninstall options
 cargo uninstall near-cli-rs
 
 ```
+
+
+```
+export NEAR_NETWORK=mainnet
+export NEAR_NETWORK=testnet
+```
+
+
+---
+
+Configuration data is stored in a file "/Users/nathan/Library/Application Support/near-cli/config.toml"
+credentials_home_dir = "/Users/nathan/.near-credentials"
+
+[network_connection.mainnet]
+network_name = "mainnet"
+rpc_url = "https://archival-rpc.mainnet.near.org/"
+wallet_url = "https://app.mynearwallet.com/"
+explorer_transaction_url = "https://explorer.near.org/transactions/"
+linkdrop_account_id = "near"
+near_social_db_contract_account_id = "social.near"
+fastnear_url = "https://api.fastnear.com/"
+staking_pools_factory_account_id = "poolv1.near"
+coingecko_url = "https://api.coingecko.com/"
+
+[network_connection.testnet]
+network_name = "testnet"
+rpc_url = "https://archival-rpc.testnet.near.org/"
+wallet_url = "https://testnet.mynearwallet.com/"
+explorer_transaction_url = "https://explorer.testnet.near.org/transactions/"
+linkdrop_account_id = "testnet"
+near_social_db_contract_account_id = "v1.social08.testnet"
+faucet_url = "https://helper.nearprotocol.com/account"
+fastnear_url = "https://test.api.fastnear.com/"
+staking_pools_factory_account_id = "pool.f863973.m0"
+
