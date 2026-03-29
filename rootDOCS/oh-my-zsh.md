@@ -36,9 +36,9 @@ git
 kitty
 # CUSTOM
 zsh-autosuggestions
-#zsh-syntax-highlighting
 zsh-autocomplete
-fast-syntax-highlighting
+# fast-syntax-highlighting
+zsh-syntax-highlighting
 )
 ```
 
