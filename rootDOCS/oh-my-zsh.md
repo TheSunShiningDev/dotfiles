@@ -62,7 +62,7 @@ git clone --depth 1 https://github.com/zsh-users/zsh-syntax-highlighting.git $ZS
 
 zsh-fast-syntax-highlighting
 ```sh
-git clone --depth 1 https://github.com/zdharma-continuum/fast-syntax-highlighting.git $ZSH_CUSTOM/plugins/fast-syntax-highlighting
+# git clone --depth 1 https://github.com/zdharma-continuum/fast-syntax-highlighting.git $ZSH_CUSTOM/plugins/fast-syntax-highlighting
 ```
 
 zsh-autocomplete

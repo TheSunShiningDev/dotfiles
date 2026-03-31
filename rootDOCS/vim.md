@@ -32,6 +32,28 @@ colorscheme solarized
 " END THEME
 ```
 
+dark
+```sh
+" .vimrc
+" keeping it simple
+" also keeping it documented!
+
+
+" BASICS
+set mouse=a " so beginners like me can user mouse
+set clipboard=unnamed " so yank works to system clipboard 
+
+" Dynamic Line Number
+" https://jeffkreeftmeijer.com/vim-number/
+:set number
+:set ruler
+:augroup numbertoggle
+:  autocmd!
+:  autocmd BufEnter,FocusGained,InsertLeave,WinEnter * if &nu && mode() != "i" | set rnu   | endif
+:  autocmd BufLeave,FocusLost,InsertEnter,WinLeave   * if &nu                  | set nornu | endif
+:augroup END
+```
+
 ### THEME OPTIONS
 are .vim files downloaded to .vim/colors/, I have downloaded these and am syncing them.
 
