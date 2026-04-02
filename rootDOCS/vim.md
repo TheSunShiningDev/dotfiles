@@ -32,7 +32,7 @@ colorscheme solarized
 " END THEME
 ```
 
-dark
+dark - ```vim .vimrc```
 ```sh
 " .vimrc
 " keeping it simple
