@@ -49,7 +49,13 @@ https://ffmpeg.org/
 **tree**
 display directories as trees (with optional color/html output)
 https://oldmanprogrammer.net/source.php?dir=projects/tree - https://github.com/Old-Man-Programmer/tree
-```brew install tree```
+```sh
+brew install tree
+
+# ubuntu
+sudo apt update
+sudo apt install tree -y
+```
 
 **pearcleaner**
 a tool to clean up your  apps
